@@ -21,10 +21,6 @@ With a deep passion for technology and education, I've dedicated my career to le
 #### Chief Technology Officer
 - Led technology department restructuring, automation of processes, and aligned technology initiatives with business goals, achieving significant growth.
 
-### New York Jobs CEO Council
-#### Technology and Learner Engagement Specialist
-- Focused on innovative strategies for online marketing and engagement through technology.
-
 ## Education
 - **John Jay College (CUNY),** Bachelor's degree in Computer Science and Information Security, 2019 - 2021
 - **ASA College,** Associate of Science (AS) in Computer Programming, 2016 - 2017
