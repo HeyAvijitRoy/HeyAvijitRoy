@@ -66,9 +66,22 @@ As a Graduate Research Assistant, I not only built real-time map visualizations 
 ## Languages
 - Hindi, Bengali, English
 
-## Projects & Contributions
-- Developed and led numerous technology projects, enhancing e-commerce platforms, streamlining data management processes, and contributing to the cybersecurity community.
-- Active participant in coding forums, open source projects, and technology workshops, continually seeking to expand my knowledge and contribute to the wider tech community.
+## Featured Projects
+
+- **BlitzTips**  
+  A .NET Core/Azure-backed incident-reporting platform for human-trafficking investigations. Features a SignalR-powered real-time map, Hangfire background jobs, OAuth2/Azure AD security, field-level encryption, and audit logging. 
+
+- **BanglaLandConvert**  
+  A client-side, mobile-responsive web tool for Bangladeshi land-measurement conversions. Pure front-end (HTML/JS), with unit dropdowns and an area calculator—no backend required.  
+  🔗 [Live Demo](https://arkabyo.github.io/JomiMapo/) | [Repo](https://github.com/arkabyo/JomiMapo)
+
+- **Phishing Simulation Platform (Storm-1295)**  
+  A local Express.js app that mimics a PhaaS attack flow—including a “fake” login page, MFA via Google Authenticator (TOTP), Telegram alerts, and credential forwarding—to train users on spotting advanced phishing techniques.
+
+- **Self-Hosted Instant Messenger**
+  This project is a lightweight, self-hosted instant messaging app designed for real-time communication between users. It’s fully scalable, flexible, and ideal for professional environments, with a hidden perk of being perfect for casual chats with friends and family during work. 😉  
+  🔗 [GitHub](https://github.com/arkabyo/ProChat)
+
 
 ---
 
