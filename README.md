@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Contact Information
-- **LinkedIn:** [avijitroykabyo](https://www.linkedin.com/in/avijitroykabyo)
+- **LinkedIn:** [HeyAvijitRoy](https://www.linkedin.com/in/HeyAvijitRoy)
 
 ## About Me
 With a deep passion for technology and education, I've dedicated my career to leveraging my skills in software development, data analysis, and cybersecurity to drive advancements in IT and data management. Currently, as the University Student Records Coordinator at The City University of New York, I utilize my expertise in programming, data integrity, and system security to enhance educational technologies and processes.
