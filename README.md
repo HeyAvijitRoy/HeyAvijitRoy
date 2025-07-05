@@ -1,104 +1,78 @@
-### Hi there 👋
+# 👋 Hey, I’m Avijit Roy
 
-## Contact Information
-- **LinkedIn:** [HeyAvijitRoy](https://www.linkedin.com/in/HeyAvijitRoy)
-
-## About Me
-With a deep passion for technology and education, I've dedicated my career to leveraging my skills in software development, data analysis, and cybersecurity to drive advancements in IT and data management. Currently, as the University Student Records Coordinator at The City University of New York, I utilize my expertise in programming, data integrity, and system security to enhance educational technologies and processes.
-
-## Professional Experience
-### The City University of New York
-#### Data Analyst at Office of International Students and Scholar Services
-- **Automated Excel Solutions**: Developed VBA macros and C# utilities to automate validation and reconciliation of over 10,000 student records—reducing manual verification time by 80%.  
-- **Interactive Dashboards & Reporting**: Built Tableau and Excel-based dashboards to visualize enrollment trends, visa-status compliance, and demographic distributions, enabling data-driven decision-making for leadership.  
-- **Process Optimization**: Designed and implemented data-quality checks and exception-handling workflows that detected anomalies early, cutting error rates in downstream reporting by half.  
-- **Ad-Hoc Analysis & Forecasting**: Delivered timely analytics on incoming international cohorts, generating enrollment forecasts and capacity-planning models that informed resource allocation.  
-- **Cross-Functional Collaboration**: Partnered with the Registrar’s Office, IT, and academic departments to define KPIs, streamline data pipelines, and produce actionable insights for policy and program improvements.
-
-#### University Student Records Coordinator at the Office of the University Registrar
-- Developing applications to support the Registrar's offices and streamline student record management.
-- Advanced data analysis and database management to ensure data integrity.
-- Implemented a software application using C# and .NET Framework for automating data comparison, significantly reducing manual data verification effort.
-
-#### IT Specialist & Data Analyst
-##### Office of International Students and Scholar Services
-- Expertise in SQL for data retrieval from RDBMS, data cleansing of over 10,000 student records.
-- Enhanced data analysis efficiency through the implementation of data visualization templates.
-
-### John Jay College of Criminal Justice
-#### Graduate Research Assistant
-As a Graduate Research Assistant, I not only built real-time map visualizations and admin dashboards for human-trafficking investigations but also designed and enforced robust security measures (OAuth2, encryption-at-rest, RBAC, audit trails) to safeguard sensitive PII and investigative intelligence.
-- **Built BlitzTips**: Developed a .NET Core Web API backend and a Razor/Bootstrap admin UI to collect, store, and visualize human-trafficking tips in real time.  
-- **Real-time map & dashboard**: Integrated Google Maps JavaScript API, SignalR, and Hangfire for live location updates and background job processing of thousands of reports.  
-- **Security & compliance**: Enforced OAuth2 authentication (Azure AD), TLS encryption in transit, field-level encryption at rest, and role-based access controls—safeguarding sensitive PII and investigative intelligence.  
-- **Audit & integrity**: Built comprehensive audit-logging and anomaly-detection routines to monitor access patterns and flag potential tampering.  
-- **Collaborative UI design**: Worked with cross-functional teams to create modular views for filtering, drilling into, and exporting demographic, vehicle, and observation data—streamlining investigative workflows.  
-- **Actionable insights**: Delivered flexible query APIs and exportable data feeds to empower law-enforcement and policy stakeholders with data-driven intelligence on trafficking trends.
-
-### Carpet Culture
-#### Chief Technology Officer
-- Led technology department restructuring, automation of processes, and aligned technology initiatives with business goals, achieving significant growth.
-
-## Education
-- **John Jay College (CUNY),** Bachelor's degree in Computer Science and Information Security, 2019 - 2021
-- **ASA College,** Associate of Science (AS) in Computer Programming, 2016 - 2017
-
-## Honors & Awards
-- Leonard E. Reisman Medal, Finish Line Scholarship, Dean's List, President's List Roll of Honor, Fund for attending SCUSA 71.
-
-## Skills
-- **Programming Languages:** C#, SQL, HTML5, CSS3, PHP, JavaScript
-- **Frameworks & Tools:** .NET Framework, Opencart, Shopify
-- **Technologies:** Data Analysis, Database Management, Web Development, Cybersecurity
-- **Soft Skills:** Communication, Teamwork, Data Visualization, Project Management
-
-## Certifications
-- **Google Cybersecurity Specialization** including Cybersecurity Tasks Automation with Python, Cybersecurity Certificate, and Specialization by Google on Coursera (2023-2024).
-- **Cisco Certifications:**
-  - Cybersecurity Essentials
-  - Introduction to Cybersecurity
-  - Networking Essentials
-- **Google Analytics Certification (GA4)**
-
-## Volunteering & Community Engagement
-- Global Guide with One To World, Photographer at CITYarts, Inc., Local Guides, and Regional Expert Reviewer on Google Map Maker, contributing to the development and improvement of global and local maps.
-
-## Languages
-- Hindi, Bengali, English
-
-## Featured Projects
-
-- **BlitzTips**  
-  A .NET Core/Azure-backed incident-reporting platform for human-trafficking investigations. Features a SignalR-powered real-time map, Hangfire background jobs, OAuth2/Azure AD security, field-level encryption, and audit logging. 
-
-- **BanglaLandConvert**  
-  A client-side, mobile-responsive web tool for Bangladeshi land-measurement conversions. Pure front-end (HTML/JS), with unit dropdowns and an area calculator—no backend required.  
-  🔗 [Live Demo](https://arkabyo.github.io/JomiMapo/) | [Repo](https://github.com/arkabyo/JomiMapo)
-
-- **Phishing Simulation Platform (Storm-1295)**  
-  A local Express.js app that mimics a PhaaS attack flow—including a “fake” login page, MFA via Google Authenticator (TOTP), Telegram alerts, and credential forwarding—to train users on spotting advanced phishing techniques.
-
-- **Self-Hosted Instant Messenger**
-  This project is a lightweight, self-hosted instant messaging app designed for real-time communication between users. It’s fully scalable, flexible, and ideal for professional environments, with a hidden perk of being perfect for casual chats with friends and family during work. 😉  
-  🔗 [GitHub](https://github.com/arkabyo/ProChat)
-
+🚀 Full-stack Developer | Cybersecurity Enthusiast | Data Analyst | AI Researcher  
+🔍 Building secure, scalable, and user-friendly solutions across web, data, and AI.
 
 ---
 
-This profile is a testament to my journey in the realm of computer science and cybersecurity, highlighting my commitment to leveraging technology for educational and societal benefit. For collaborations or inquiries, please reach out via email or connect on LinkedIn.
+## 🔨 What I Build & Explore
 
+I bridge **data, security, and applied AI** to build impactful, real-world systems for education and public service.
 
-<!--
-**arkabyo/arkabyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ **Engineering for Impact:** Automated verification across 10,000+ student records at CUNY using .NET, cutting manual work by 80%.  
+- 🛡️ **Secure Platforms:** Built live dashboards for human trafficking intelligence, secured with OAuth2, RBAC, and audit logging.  
+- 🔒 **Cybersecurity R&D:** Privacy-first tools and secure authentication workflows.  
+- 🎓 **Mentor & Educator:** Guiding undergraduates at John Jay College in secure session design and full-stack development.  
+- 🤖 **AI for Social Good:**  
+  - Developing **NLP-based Spanish and English writing proficiency tools** (ACTFL-aligned scoring, NLP, HuggingFace).  
+  - Building **propaganda detection models** for news articles using Newspaper3k, BeautifulSoup, and OpenAI APIs.  
+  - Active AI researcher at Research Foundation CUNY.  
+- 📊 **Data Storyteller:** Translating complex data into actionable insights using SQL, C#, and modern dashboards.  
+- 🌟 **Community Contributor:** Sharing daily .NET tips at **#DotNetWithRoy** on LinkedIn.
 
-Here are some ideas to get you started:
+_I believe technology should not just function — it should empower people. My work reflects that._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**Languages:** C#, Python, C++, Java, SQL, JavaScript, HTML/CSS, PHP  
+**AI & Data:** TensorFlow, scikit-learn, HuggingFace Transformers, NLTK  
+**Frameworks & Tools:** .NET (Core/Framework), Razor Pages, Entity Framework, SignalR, Hangfire  
+**Cloud & APIs:** Azure, Google Cloud, Google Maps API  
+**Focus Areas:** Secure backend systems, real-time web apps, applied AI/NLP, data analysis, automation
+
+---
+
+## 🔑 Featured Projects
+
+- **[HashNow](https://github.com/HeyAvijitRoy/HashNow)**  
+  🔐 A secure, 100% client-side **hash generator and verifier** supporting SHA-256, SHA-1, and MD5.  
+  - Works fully offline (Web & Desktop)  
+  - Drag-drop files & auto-compare hashes  
+
+- **[Django Secure Single-Session Auth](https://github.com/HeyAvijitRoy/DjangoSecureSingleSessionAuth)**  
+  🛡️ A production-ready **Django auth system** preventing concurrent logins.  
+  - Audit logging, suspicious login alerts, session unlocking  
+
+- **[Article Extractor](https://github.com/HeyAvijitRoy/ArticleExtractor)**  
+  📰 A Chrome Extension + Flask backend to extract clean sentences from news articles.  
+  - Uses Newspaper3k + NLTK  
+  - Downloads sentences as JSON with one click  
+
+- **[OneClickQR](https://github.com/HeyAvijitRoy/OneClickQR)**  
+  ⚡ Free, instant **QR code generator** (URLs, vCards, Wi-Fi, and more).  
+  - Exports transparent PNG & SVG  
+  - Fully client-side & privacy-first  
+
+- **[JomiMapo](https://github.com/HeyAvijitRoy/JomiMapo)**  
+  🌾 Bangladeshi **land measurement converter** supporting 20+ traditional and modern units.  
+  - Ultra-responsive, bilingual UI (**English / বাংলা**)  
+  - Offline-first, pure HTML/CSS/JS  
+
+- **[ProChat](https://github.com/HeyAvijitRoy/ProChat)**  
+  💬 **Self-hosted instant messenger** for real-time chat in professional or casual settings.  
+  - Text file–based storage (no database needed)  
+  - Emoticon-to-emoji conversion, user tracking, notifications  
+
+---
+
+## 🌍 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/HeyAvijitRoy/)
+- 📱 Find me @HeyAvijitRoy
+- 🌐 [avijitroy.com](https://avijitroy.com)
+
+---
+
+_“I build tools that solve real problems — secure, fast, and privacy-first.”_
