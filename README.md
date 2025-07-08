@@ -9,16 +9,16 @@
 
 I bridge **data, security, and applied AI** to build impactful, real-world systems for education and public service.
 
-- ⚙️ **Engineering for Impact:** Automated verification across 10,000+ student records at CUNY using .NET, cutting manual work by 80%.  
-- 🛡️ **Secure Platforms:** Built live dashboards for human trafficking intelligence, secured with OAuth2, RBAC, and audit logging.  
-- 🔒 **Cybersecurity R&D:** Privacy-first tools and secure authentication workflows.  
-- 🎓 **Mentor & Educator:** Guiding undergraduates at John Jay College in secure session design and full-stack development.  
-- 🤖 **AI for Social Good:**  
+- **Engineering for Impact:** Automated verification across 10,000+ student records at CUNY using .NET, cutting manual work by 80%.  
+- **Secure Platforms:** Built live dashboards for human trafficking intelligence, secured with OAuth2, RBAC, and audit logging.  
+- **Cybersecurity R&D:** Privacy-first tools and secure authentication workflows.  
+- **Mentor & Educator:** Guiding undergraduates at John Jay College in secure session design and full-stack development.  
+- **AI for Social Good:**  
   - Developing **NLP-based Spanish and English writing proficiency tools** (ACTFL-aligned scoring, NLP, HuggingFace).  
   - Building **propaganda detection models** for news articles using Newspaper3k, BeautifulSoup, and OpenAI APIs.  
   - Active AI researcher at Research Foundation CUNY.  
-- 📊 **Data Storyteller:** Translating complex data into actionable insights using SQL, C#, and modern dashboards.  
-- 🌟 **Community Contributor:** Sharing daily .NET tips at **#DotNetWithRoy** on LinkedIn.
+- **Data Storyteller:** Translating complex data into actionable insights using SQL, C#, and modern dashboards.  
+- **Community Contributor:** Sharing daily .NET tips at **#DotNetWithRoy** on LinkedIn.
 
 _I believe technology should not just function — it should empower people. My work reflects that._
 
