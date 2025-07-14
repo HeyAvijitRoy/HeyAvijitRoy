@@ -26,11 +26,11 @@ _I believe technology should not just function — it should empower people. My 
 
 ## 🔧 Tech Stack
 
-**Languages:** C#, Python, C++, Java, SQL, JavaScript, HTML/CSS, PHP  
-**AI & Data:** TensorFlow, scikit-learn, HuggingFace Transformers, NLTK  
-**Frameworks & Tools:** .NET (Core/Framework), Razor Pages, Entity Framework, SignalR, Hangfire  
-**Cloud & APIs:** Azure, Google Cloud, Google Maps API  
-**Focus Areas:** Secure backend systems, real-time web apps, applied AI/NLP, data analysis, automation
+- **Languages:** C#, Python, C++, Java, SQL, JavaScript, HTML/CSS, PHP  
+- **AI & Data:** TensorFlow, scikit-learn, HuggingFace Transformers, NLTK  
+- **Frameworks & Tools:** .NET (Core/Framework), Razor Pages, Entity Framework, SignalR, Hangfire  
+- **Cloud & APIs:** Azure, Google Cloud, Google Maps API  
+- **Focus Areas:** Secure backend systems, real-time web apps, applied AI/NLP, data analysis, automation
 
 ---
 
