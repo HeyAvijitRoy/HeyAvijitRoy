@@ -141,6 +141,12 @@ _I believe technology should not just function — it should empower people. My 
 
 ---
 
+## 📈 Recent Activity
+
+![Avijit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heyavijitroy&area=true&hide_border=true&theme=dracula&days=30&radius=5.6)
+
+---
+
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HeyAvijitRoy/)
