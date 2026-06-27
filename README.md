@@ -97,7 +97,7 @@ _I believe technology should not just function — it should empower people. My 
 
 Free, no-signup tools I've built and shipped — try them directly:
 
-- **[LIMO](https://limo.avijitroy.com/)** — Local Intelligent Media Organizer. 100% offline Windows desktop app that indexes, clusters, and auto-categorizes your photo library using local face recognition (HOG embeddings) and reinforcement-learning feedback loops — no cloud, no uploads. ([repo](https://github.com/HeyAvijitRoy/limo))
+- **[LIMO](https://avijitroy.com/limo)** — Local Intelligent Media Organizer. 100% offline Windows desktop app that indexes, clusters, and auto-categorizes your photo library using local face recognition (HOG embeddings) and reinforcement-learning feedback loops — no cloud, no uploads. ([repo](https://github.com/HeyAvijitRoy/limo))
 - **[OneClickQR](https://www.oneclickqr.com/)** — Generate QR codes for URLs, Wi-Fi, vCards, and UTM campaigns entirely client-side — high-res PNG/SVG export, no data ever sent to a server.
 - **[HashNow](https://avijitroy.com/HashNow/)** — Zero-trust file integrity checker. Generates MD5/SHA-256 hashes 100% in-browser to verify file authenticity without uploading anything.
 - **[ChatifyNode](https://www.avijitroy.net/)** — Real-time chat app powered by Node.js, Express, and Socket.IO, with emoji reactions, read receipts, and a responsive UI.
