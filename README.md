@@ -93,19 +93,28 @@ _I believe technology should not just function — it should empower people. My 
 
 ---
 
-## 🔑 Featured Projects
+## 🧰 Live Tools & Projects
+
+Free, no-signup tools I've built and shipped — try them directly:
+
+- **[LIMO](https://limo.avijitroy.com/)** — Local Intelligent Media Organizer. 100% offline Windows desktop app that indexes, clusters, and auto-categorizes your photo library using local face recognition (HOG embeddings) and reinforcement-learning feedback loops — no cloud, no uploads. ([repo](https://github.com/HeyAvijitRoy/limo))
+- **[OneClickQR](https://www.oneclickqr.com/)** — Generate QR codes for URLs, Wi-Fi, vCards, and UTM campaigns entirely client-side — high-res PNG/SVG export, no data ever sent to a server.
+- **[HashNow](https://avijitroy.com/HashNow/)** — Zero-trust file integrity checker. Generates MD5/SHA-256 hashes 100% in-browser to verify file authenticity without uploading anything.
+- **[ChatifyNode](https://www.avijitroy.net/)** — Real-time chat app powered by Node.js, Express, and Socket.IO, with emoji reactions, read receipts, and a responsive UI.
+- **[JomiMapo](https://avijitroy.com/JomiMapo/)** — Offline-capable PWA that converts 20+ traditional Bangladeshi land measurement units to modern standardized equivalents.
+- **[Personal Debt Tracker](https://heyavijitroy.github.io/PersonalDebtTracker/)** — Privacy-conscious credit card planner: visualizes utilization, FICO threshold nudges, and 0% balance-transfer optimization — all client-side via Firebase. ([repo](https://github.com/HeyAvijitRoy/PersonalDebtTracker))
+- **[Exam Timer](https://avijitroy.com/exam-timer/)** —  High-visibility lecture hall proctoring timer with dark-mode UI and customizable warning thresholds.
+- **[NY DMV Guide for Bengali Learners](https://avijitroy.com/ny-dmv-bengali-guide/)** — A Bengali-language guide explaining DMV terms, road signs, and examiner commands to help learners prepare for the NY learner permit and road test.
+
+---
+
+## 📂 Other Projects
+
+Projects that aren't public live demos — internal tools, libraries, and references:
 
 - **[BlitzTips](https://avijitroy.com/projects/#blitztips)**  
   🛡️ **Multi-Agency Intelligence Dashboard.** Secure investigation platform for real-time human trafficking tip triage. .NET Core + React, SignalR, Hangfire, Google Maps API, RBAC, OAuth2.  
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat)
-
-- **[OneClickQR](https://github.com/HeyAvijitRoy/OneClickQR)**  
-  ⚡ **Privacy-First QR Generator.** Client-side QR generation for URLs, Wi-Fi, vCards, and UTM campaigns — high-res PNG/SVG, no data sent to servers.  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat)
-
-- **[HashNow](https://github.com/HeyAvijitRoy/HashNow)**  
-  🔐 **Zero-Trust File Verifier.** 100% client-side hash generator (MD5, SHA-256) for secure file integrity checks.  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat)
 
 - **[Django Auth System](https://github.com/HeyAvijitRoy/DjangoSecureSingleSessionAuth)**  
   🛡️ **Enterprise Session Enforcement.** Production-ready Django auth system preventing concurrent logins with GeoIP monitoring.  
@@ -122,22 +131,6 @@ _I believe technology should not just function — it should empower people. My 
 - **[dotnet-dailytips](https://github.com/HeyAvijitRoy/dotnet-dailytips)**  
   📘 **Production-Ready .NET Reference.** Curated enterprise patterns: async workflows, EF query optimization, scalable API design.  
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat)
-
-- **[ChatifyNode](https://github.com/HeyAvijitRoy/ChatifyNode)**  
-  💬 **Scalable Real-Time Messaging Engine.** Node.js + Socket.IO backend for low-latency instant event delivery.  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat)
-
-- **[JomiMapo](https://github.com/HeyAvijitRoy/JomiMapo)**  
-  🌾 **Regional Unit Conversion PWA.** Converts 20+ Bangladeshi land measurement units to modern standardized equivalents, offline-capable.  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat)
-
-- **[PersonalDebtTracker](https://github.com/HeyAvijitRoy/PersonalDebtTracker)**  
-  💳 **Privacy-Centric Finance PWA.** Secure debt visualization and financial planning using Firebase/Firestore — no data harvesting.  
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-- **[Exam Timer](https://github.com/HeyAvijitRoy/exam-timer)**  
-  ⏱️ **Lecture Hall Proctoring Tool.** High-visibility exam timer with dark-mode UI and customizable warning thresholds.  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat)
 
 ---
 
